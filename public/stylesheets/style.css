@@ -9,5 +9,8 @@ a {
 
 .active {
     font-weight: 600;
-    color: #1d1d1f;
+}
+
+.date {
+    color: #00B7FF;
 }
